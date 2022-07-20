@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    width: 100%;
+    height: 120vh;
+    position: absolute;
+}
+.temp{
+    width: 80%;
+    height: 80vh;
+    position: relative;
+    top: 50px;
+    left: 10%;
+    background-color: rgb(24, 24, 24);
+    border: 3px solid black;
+    border-radius: 35px;
+}
