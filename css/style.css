@@ -229,13 +229,3 @@
     padding-top: 20px;
 }
 
-/* resposnsive code */
-@media only screen and(max-width:768px) {
-    .cont{
-        flex-direction: column;
-        justify-content: center;
-    }
-    .cont .sec1{
-        flex-direction: row;
-    }
-}
